@@ -1,4 +1,4 @@
-package com.yongle.annotation;
+package com.yongle.annotation_02;
 
 import org.springframework.context.annotation.Bean;
 

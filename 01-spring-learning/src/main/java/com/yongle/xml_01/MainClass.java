@@ -1,4 +1,4 @@
-package com.yongle.xml;
+package com.yongle.xml_01;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
